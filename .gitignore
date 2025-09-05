@@ -6,5 +6,6 @@ Faceforensics*
 .DS_Store
 __pycache__/
 *.h5
-*.kerasprocessed_data.pkl
+*.keras
+processed_data.pkl
 shape_predictor_68_face_landmarks.dat
