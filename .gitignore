@@ -1,4 +1,4 @@
-faceforensics*
+Faceforensics*
 *.mp4
 *.avi
 *.mov
@@ -6,4 +6,5 @@ faceforensics*
 .DS_Store
 __pycache__/
 *.h5
-*.keras
+*.kerasprocessed_data.pkl
+shape_predictor_68_face_landmarks.dat
