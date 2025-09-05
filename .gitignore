@@ -1,0 +1,9 @@
+faceforensics*
+*.mp4
+*.avi
+*.mov
+*.mkv
+.DS_Store
+__pycache__/
+*.h5
+*.keras
